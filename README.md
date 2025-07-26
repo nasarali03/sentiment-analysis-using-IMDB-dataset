@@ -24,6 +24,7 @@ This project demonstrates sentiment analysis on IMDB movie reviews using machine
 
 The goal is to classify IMDB movie reviews as positive or negative using logistic regression. The project leverages Python libraries such as pandas, scikit-learn, NLTK, and spaCy for data handling, NLP, and machine learning.
 
+
 ## Dataset
 
 - **File:** Dataset.csv
@@ -100,4 +101,4 @@ python -m spacy download en_core_web_sm
 - [NLTK Documentation](https://www.nltk.org/)
 - [spaCy Documentation](https://spacy.io/)
 - [scikit-learn Documentation](https://scikit-learn.org/)
-- [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+- [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
